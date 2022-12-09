@@ -1,0 +1,22 @@
+{
+"FOOTER_COPYRIGHT":"Copyright © 2022 FXCM",
+"FOOTER_CONTENT":"Trading Forex/CFDs on margin carries a high level of risk and may not be suitable for all investors. The products are intended for retail, professional, and eligible counterparty clients. Retail clients who maintain account(s) with Forex Capital Markets Limited (“FXCM LTD”) could sustain a total loss of deposited funds but are not subject to subsequent payment obligations beyond the deposited funds but professional clients and eligible counterparty clients could sustain losses in excess of deposits. Prior to trading any products offered by FXCM LTD, any affiliates of aforementioned firms, or other firms within the FXCM group of companies [collectively the “FXCM Group”], carefully consider your financial situation and experience level. The FXCM Group may provide general commentary, which is not intended as investment advice and must not be construed as such. Seek advice from a separate financial advisor. The FXCM Group assumes no liability for errors, inaccuracies or omissions; does not warrant the accuracy, completeness of information, text, graphics, links or other items contained within these materials. Read and understand the Terms and Conditions on the FXCM Group’s websites prior to taking further action.",
+"FOOTER_LEGAL":"FXCM LTD is authorised and regulated in the UK by the Financial Conduct Authority. Registration number 217689. Registered in England and Wales with Companies House company number 04072877.",
+"LOGIN_HEADER":"Start trading today",
+"COUNTRY_LABEL":"What country do you live in?",
+"EMAIL":"Email",
+"PASSWORD":"Password",
+"SIGN_UP_NOTE":"By clicking Sign Up you agree that we may contact you about your application and we may electronically verify your identity by sharing your personal information and identity documents with an identity verification service to set up your account and comply with our regulatory obligations.",
+"SIGN_UP":"Sign up",
+"ALREADY_HAVE_ACCOUNT":"Already have an account?",
+"SIGN_UP_APPLE":"Sign up with Apple",
+"SIGN_UP_GOOGLE":"Sign up with Google",
+"SIGN_IN":"Sign In",
+"TOP_NOTIFICATION":"Top Notification in english goes here...",
+"SEEMORE_TITLE":"Want to see more first?",
+"SEEMORE_SUBTITLE":"See our demo environment",
+"SEEMORE_TEXT":"Trade with artificial funds, gain confidence and trial all the features FXCM has to offer from the safety of a demo environment.",
+"LAUNCH_DEMO":"Launch the demo",
+"PLATFORM_TITLE":"Choose your platform",
+"PLATFORM_SUBTITLE":"We’ll configure your account so it works on your chosen platform"
+}
